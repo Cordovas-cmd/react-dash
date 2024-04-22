@@ -38,6 +38,11 @@ body,
 ::-webkit-scrollbar-track:hover {
   background: #555;
 }
+
+
+.css-1wvake5 {
+  height: 100vh;
+}
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
