@@ -138,7 +138,7 @@ const SideBar = () => {
               Data
             </Typography>
             <Item
-              title="Manage Team"
+              title="Manage Med Team"
               to="/team"
               icon={<PeopleOutlinedIcon />}
               selected={selected}
