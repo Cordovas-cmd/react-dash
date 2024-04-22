@@ -6,7 +6,7 @@ import { color } from "three/examples/jsm/nodes/Nodes.js";
 
 // color design archetypes
 export const tokens = (mode) => ({
-    ...black(mode === "dark"
+    ...(mode === "dark"
 ? {
     grey: {
         100: "#e0e0e0",
